@@ -1,0 +1,33 @@
+
+html {
+  background: url(http://static1.squarespace.com/static/54fb19cce4b0c724169b7113/t/552dc380e4b0dd54f7e38226/1429062543772/planewolves_zps225d1c8f.png?format=2500w) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body  {
+  font-family: 'Cutive Mono', Courier;
+  position: relative;
+  margin: 0;
+  padding: 0;
+  font-weight: bold;
+}
+
+section {
+  margin: 100px auto;
+  max-width: 400px;
+  background: rgba(255, 255, 255, 0.9);
+  padding: 30px;
+}
+
+
+li {
+  margin-bottom: 10px;
+}
+
+a {
+  color: #CC0000;
+  /*font-weight: bold;*/
+}
